@@ -1,0 +1,234 @@
+DIABETES
+Hi there!
+Hello
+How do you feel today? 
+I am not feeling fine
+So, do you want to share some symptoms?
+I feel very tired and also feel numbness in hands and feet
+Are you urinating more often?
+Yes, I am urinating more than normal
+These may be the symptoms of diabetes; it is a metabolic disease that causes high blood sugar. Do you even feel hungrier?
+Yes, I feel hungry more often
+Based on your symptoms you should seek medical guidance and get your blood sugar level checked. You can precautionary cut sugar and carbs from diet. Work out regularly and drink more water. Measure your protein sizes and try to lose weight if you’re overweight or obese.
+Ok
+Can I help with anything else?
+No, it’s fine
+Thankyou. And please take care of your health.
+
+
+CORONAVIRUS
+Hi there
+Hello 
+How you are feeling today?
+I am not feeling fine
+So, do you want to share some symptoms?
+I have cold cough 
+Okay, can you tell me more about how you are feeling? 
+I have a high fever
+Do you feel body ache too?
+Yes, I have body ache
+Do you have shortness of breath?
+Yes, I have shortness of breathe
+Looks like these are the symptoms of coronavirus. Do you feel loss of taste and smell?
+Yes, sometimes
+These symptoms indicate Covid-19. If you have traveled to a location with an active outbreak or been in contact with someone with confirmed COVID-19, it is very likely you have the disease. Have you travel in last 15-20 days?
+Yes, I travelled 
+you need to isolate yourself and stay indoors. Stay home except for receiving care, avoid coming in contact with others, wear a facemask when you do have to be around others, cover your coughs and sneezes, clean your hands often, and avoid sharing personal items. The NHS has published a 111 Online portal which will identify high-risk areas and what to do next. Even if you do not live in the UKI area, this guidance might apply. Contact your public health authority for clarifications. In addition, if you feel chest pain or loss of speech it means you’ve serious symptoms, seek medical attention immediately.
+Ok
+Any more questions?
+No 
+Ok, thank you !! stay home, stay safe
+
+No, I don’t feel shortness of breathe
+Okay, so seems like you have viral fever. Keep in mind a low-grade fever of between 98.7°F and 100.4°F may not need medication. If your fever is higher, you’re experiencing discomfort, or your fever lingers for longer than 24 hours, your doctor may suggest you take acetaminophen or ibuprofen. Avoid taking antibiotics. Take proper rest and drink lots of water.
+
+TYPHOID
+Hello 
+How you are feeling today?
+I am not feeling fine
+So do you wanna share some symptoms?
+I have High fever and diarrhoea 
+Do you feel weakness too? 
+Yes, I feel weak
+Then there is a possibility of you have Typhoid, it is a bacterial infection which is mostly spread by contaminated food and water. Have you lost appetite too?
+Yes, I have lost appetite
+You should seek medical help and get on antibiotic therapy. You should drink boiled water, avoid eating street food and raw fruit and vegetables. Take small walk to make your digestive system better.
+Ok
+Can I help with anything else?
+No, it’s fine.
+Thankyou. And please take care of your health.
+
+No, I have not lost appetite
+This maybe early stages of typhoid so recovery would be quick. You should seek medical help and get on antibiotic therapy with consultancy. You should drink boiled water, avoid eating street food and raw fruit and vegetables. Take small walk to make your digestive system better.
+
+Heart Diseases
+Hi there
+Hello 
+How you are feeling today?
+I am not feeling fine.
+So, do you wanna share some symptoms?
+I feel chest pain and chest discomfort
+Do you feel discomfort in breathing too?
+Yes, I feel discomfort in breathing 
+These may be symptoms of cardiovascular diseases. You might not be diagnosed with coronary artery disease until you have a heart attack, angina, stroke or heart failure. It's important to watch for cardiovascular symptoms and discuss concerns with your doctor. Cardiovascular disease can sometimes be found early with regular evaluations.
+
+I feel swelling in legs and arms
+Do you feel dizziness?
+Yes, I feel dizziness
+This may be symptoms of cardiomyopathy. In early stages of cardiomyopathy, you may have no symptoms. As the condition worsens, these symptoms may be include. You should consult a doctor immediately.
+Can you suggest some precautions?
+Fortunately, there are many things you can do to reduce your chances of getting heart disease, Control your blood pressure, Keep your cholesterol and triglyceride levels under control, Stay at a healthy weight, Eat a healthy diet, Get regular exercise.
+Arthritis
+Hi there
+Hello 
+How you are feeling today?
+I am not feeling fine
+So, do you want to share some symptoms?
+I have cold cough  
+Okay, can you tell me more about how you are feeling? 
+I have knee pain
+is there pain in any other joints too?
+Yes, I have pain in neck
+Do you feel difficulty in walking?
+Yes, I can not walk fast
+Looks like these are the symptoms of arthirities. Do you have any swelling in your leg?
+Yes, I have swelling
+These symptoms indicate arthirities. Do you have obesity?
+Yes I am obese
+You should try to loose few pounds as carrying excess pounds puts stress on the joints. Have you been injured or fallen recently which would have led to injury?
+No . I did not
+Do you used to play sports and fall of ground?
+Yes, i was hurt while playing sports
+These symptoms indicate you have developed arthirities. You should try loosing weight. You need to consult a physician. You can also consult a physiotherapist for ease of joint pain. 
+Any more questions?
+No 
+Ok, thank you !! stay home, stay safe
+
+Hi there
+Hello 
+How you are feeling today?
+I am not feeling fine
+So, do you want to share some symptoms?
+I have abdominal pain 
+Okay, can you tell me more about how you are feeling? 
+I have a fever and chills
+Do you feel frequent urination too?
+Yes, I feel frequent urination
+Do you feel burning sensation while urinating?
+Yes, I feel burning sensation while urinating
+Looks like these are the symptoms of kidney infection. Does it smell when you urinate?
+Yes, it smells
+These symptoms indicate infection in kidney. Do you feel constant urge to urine?
+Yes, I do
+You need to contact a doctor instantly. You need antibiotics for the infection and you need to make sure to take all of the medicine. For now make sure you drink clean water and make yourself hydrated
+ok
+Any more questions?
+No 
+Ok, thank you !! stay home, stay safe
+
+ANXIETY DISORDER
+Hi there!
+Hello
+How do you feel today? 
+I don’t feel well
+Can you please explain your symptoms ?
+I feel very anxious and also feel restless
+Are you also having rapid heartbeat or shortness of breath ?
+Yes, I am having rapid heartbeat 
+These may be the symptoms of Anxiety Disorder, Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.Do you even feel Changes in behavior, such as avoiding everyday activities you used to do?
+Yes, i feel so
+Based on your symptoms you should seek medical guidance. To diagnose anxiety disorders, your health care provider will ask about your symptoms and medical history. You may also have a physical exam and lab tests to make sure that a different health problem is not the cause of your symptoms.
+Ok
+Can I help with anything else?
+Nothing else.
+Thank you. And please take care of your health Using caffeine, other substances, and certain medicines can make your symptoms worse. And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+i feel very anxious 
+do you feel restless too?
+Yes, i feel restless
+Are you also having rapid heartbeat or shortness of breath ?
+no, i dont feel restless
+Are you also having rapid heartbeat or shortness of breath ?
+
+OBSESSIVE-COMPULSIVE DISORDER (OCD)
+Hi there
+Hello 
+How are you feeling today?
+I am not feeling well
+So do you wanna share some symptoms ?
+I keep worrying about harm coming towards myself or others
+Okay , can you tell me more about how you are feeling? 
+I keep having aggressive thoughts towards myself or others and i Need things in precise way
+Are you repeatedly checking on things, such as whether the door is locked or the oven is off ?
+Yes, I have been doing so
+Look’s like these are the symptoms of obsessive-compulsive disorder (OCD) . Do you have the symptom of Compulsive counting?
+Yes, I have
+These symptoms indicate OCD. Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls. The first step is to talk with your health care provider about your symptoms. Your provider should do an exam and ask you about your medical history. He or she needs to make sure that a physical problem is not causing your symptoms. If it seems to be a mental problem, your provider may refer you to a mental health specialist for further evaluation or treatment. Any more questions?
+No 
+Ok, thank you! And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+
+Are you repeatedly checking on things, such as whether the door is locked or the oven is off ?
+No, I have not been doing so
+Look’s like these might be the symptoms of obsessive-compulsive disorder (OCD) . Do you have the symptom of Compulsive counting?
+Yes, I have
+These symptoms indicate OCD. Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls. The first step is to talk with your health care provider about your symptoms. Your provider should do an exam and ask you about your medical history. He or she needs to make sure that a physical problem is not causing your symptoms. If it seems to be a mental problem, your provider may refer you to a mental health specialist for further evaluation or treatment.
+Any more questions?
+No 
+Ok, thank you! And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+
+
+
+DEPRESSION
+Hi there
+Hello 
+How are you feeling today?
+I am not feeling well
+So do you wanna share some symptoms ?
+Feelings of guilt or helplessness
+Do you feel Persistent sad, anxious, or in an “empty” mood too? 
+Yes, I feel anxious
+Then there is a possibility of your having Depression, Everyone feels sad or low sometimes, but these feelings usually pass with a little time. Depression is different. It can cause severe symptoms that affect how you feel, think, and handle daily activities, such as sleeping, eating, or working. It is an illness that can affect anyone—regardless of age, race, income, culture, or education. Research suggests that genetic, biological, environmental, and psychological factors play a role in depression. Have you lost interest or pleasure in hobbies or activities?
+Yes, I have lost interest in hobbies
+You should seek medical help and talk to your health care provider. Primary care providers routinely diagnose and treat depression and refer individuals to mental health professionals, such as psychologists or psychiatrists.
+Ok
+Can I help with anything else?
+No, it’s fine.
+Thank you. And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+
+Yes, I don't feel anxious
+Have you lost interest or pleasure in hobbies or activities?
+Yes, I have lost interest in hobbies
+Then there is a possibility of your having Depression, Everyone feels sad or low sometimes, but these feelings usually pass with a little time. Depression is different. It can cause severe symptoms that affect how you feel, think, and handle daily activities, such as sleeping, eating, or working. It is an illness that can affect anyone—regardless of age, race, income, culture, or education. Research suggests that genetic, biological, environmental, and psychological factors play a role in depression. You should seek medical help and talk to your health care provider. Primary care providers routinely diagnose and treat depression and refer individuals to mental health professionals, such as psychologists or psychiatrists.
+Ok
+Can I help with anything else?
+No, it’s fine.
+Thank you. And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+
+
+
+
+
+Attention Deficit Hyperactivity Disorder (ADHD)
+Hi there
+Hello 
+How you are feeling today?
+I am not feeling fine.
+So do you wanna share some symptoms ?
+I am having Difficulty processing information quickly.
+Okay , can you tell me more about how you are feeling? 
+I am Becoming easily distracted, and jumping from activity to activity.
+Do you feel difficulty focusing attention or completing a single task or activity.
+Yes I feel difficulty
+Are you also feeling Impatient?
+Yes, I am impatient
+Looks like these are the symptoms of Attention Deficit Hyperactivity Disorder(ADHD) . Do you have the symptom of Fidgeting and squirming, having trouble sitting still?
+Yes, sometimes I fidget
+Attention deficit hyperactivity disorder (ADHD) is a condition characterized by inattention, hyperactivity and impulsivity. ADHD is most commonly diagnosed in young people. An estimated 8.8% of children aged 4-17 have ADHD. While ADHD is usually diagnosed in childhood, it does not only affect children. An estimated 4.4% of adults aged 18-44 have ADHD. There is no one single test that can diagnose a child with ADHD, so meet with a doctor or mental health professional to gather all the necessary information to make a diagnosis. The goal is to rule out any outside causes for symptoms, such as environmental changes, difficulty in school, medical problems and ensure that a child is otherwise healthy.
+Ok
+Can I help with anything else?
+No, it’s fine.
+Thank you. And you can visit here if you want someone to talk http://itsoktotalk.in/find-help/ .
+
+Yes I don’t feel difficulty
+Are you also feeling Impatient?
+Yes, I am impatient
+
